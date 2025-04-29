@@ -27,8 +27,8 @@ To write a python program to sort the first half of the list using merge sort.
 
 ## Program:
 
-### Developed by: ABRIN NISHA A
-### Register Number: 212222230005
+### Developed by: BRINDHA R
+### Register Number: 212222230023
 ```
 def merge(arr,l,m,r):
     n1=m-l+1
