@@ -42,8 +42,8 @@ Select the last element in the subarray as the pivot.
 
 ## Program :
 
-### Developed by: ABRIN NISHA A
-### Register Number: 212222230005
+### Developed by: Brindha R
+### Register Number: 212222230023
 ```
 
 def partition(arr, low, high):
